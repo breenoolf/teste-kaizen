@@ -1,0 +1,11 @@
+name,wins,losses,total_combats,win_rate,id,types,attack,defense,hp,speed
+Bronzor,2.0,14.0,16.0,0.125,485.0,Steel/Psychic,24.0,86.0,57.0,23.0
+Cubone,1.0,13.0,14.0,0.0714,113.0,Ground,50.0,95.0,50.0,35.0
+Patrat,0.0,13.0,13.0,0.0,564.0,Normal,55.0,39.0,45.0,42.0
+Pignite,4.0,12.0,16.0,0.25,559.0,Fire/Fighting,93.0,55.0,90.0,55.0
+Venonat,3.0,12.0,15.0,0.2,54.0,Bug/Poison,55.0,50.0,60.0,45.0
+Azurill,1.0,12.0,13.0,0.0769,323.0,Normal/Fairy,20.0,40.0,50.0,20.0
+Shellos,1.0,12.0,13.0,0.0769,470.0,Water,48.0,48.0,76.0,34.0
+Octillery,0.0,12.0,12.0,0.0,243.0,Water,105.0,75.0,75.0,45.0
+Carracosta,4.0,11.0,15.0,0.2667,627.0,Water/Rock,108.0,133.0,74.0,32.0
+Wormadam Trash Cloak,4.0,11.0,15.0,0.2667,461.0,Bug/Steel,69.0,95.0,60.0,36.0

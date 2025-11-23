@@ -1,0 +1,26 @@
+type,count
+Bug,71
+"Bug, Flying",1
+Dark,51
+Dragon,50
+Electric,50
+Fairy,40
+Fighting,51
+"Fighting, Fairy",1
+Fire,64
+Flying,101
+Ghost,46
+Grass,94
+"Grass, Flying",1
+Ground,67
+Ice,38
+Normal,101
+"Normal, Fairy",1
+Poison,61
+"Poison, Steel",1
+Psychic,90
+Rock,58
+Steel,49
+Water,124
+"Water, Fairy",1
+"Water, Fighting",1

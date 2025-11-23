@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.env
+*.pyc
+# Streamlit cache
+.streamlit/
+# VSCode
+.vscode/
+# Data extracts (optional keep processed)
+/data/raw/*.json
+# Power BI cache files
+*.pbix~
