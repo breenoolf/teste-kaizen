@@ -22,8 +22,8 @@ No Windows, os comandos abaixo assumem o uso do **PowerShell**.
 Em um diretório de sua preferência, execute:
 
 ```powershell
-git clone <URL_DO_REPOSITORIO>
-cd "TESTE KAIZEN"
+git clone https://github.com/breenoolf/teste-kaizen
+cd teste-kaizen
 ```
 
 ---
@@ -64,7 +64,7 @@ FORCE_REFRESH=0
 
 **Campos principais:**
 
-- `BASE_URL`: URL base da API Pokémon (ex.: `http://ec2-...:8000`).
+- `BASE_URL`: URL base da API Pokémon
 - `API_USERNAME` / `API_PASSWORD`: credenciais da API.
 - `MAX_COMBATS`: limite aproximado de combates a serem baixados (útil para acelerar o ETL).
 - `FORCE_REFRESH`:
